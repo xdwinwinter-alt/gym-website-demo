@@ -13,7 +13,7 @@ A futuristic, responsive website concept for a fictional fitness business.
 
 ## Live Demo
 
-[](L)
+[https://xdwinwinter-alt.github.io/gym-website-demo/]
 
 ## Disclaimer
 
